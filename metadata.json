@@ -1,0 +1,6 @@
+{
+  "name": "Planilla de Cambio de Neumáticos",
+  "description": "Planilla de control y seguimiento de cumplimiento del cambio de neumáticos por proveedor, basada en la licitación del Ministerio Público de la Acusación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
